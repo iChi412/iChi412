@@ -1,4 +1,4 @@
-### Hi there 👋
+### 作品紹介
 
 <!--
 **iChi412/iChi412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
