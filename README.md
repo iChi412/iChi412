@@ -1,4 +1,16 @@
-### 作品紹介
+## 作品紹介
+
+### RolePlayingShooting
+private repositoryで製作中
+
+- テーマ
+  - ロールの概念のある協力型オンラインSTG
+- コンセプト
+  - 各々が固有の役割をこなすことによる，協力者との一体感を味わう
+- 目的
+  - 疎遠になった友達と一緒に遊ぶ（そのためのオンライン）
+  - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
+
 
 <!--
 **iChi412/iChi412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
