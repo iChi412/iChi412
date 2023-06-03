@@ -1,6 +1,6 @@
-## 作品紹介
+# 作品紹介
 
-### RolePlayingShooting
+## RolePlayingShooting
 private repositoryで製作中
 
 - テーマ
@@ -12,7 +12,10 @@ private repositoryで製作中
 - 疎遠になった友達と一緒に遊ぶ（そのためのオンライン）
 - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
 
-### 死の国のエルヴィア
+### 開発環境など
+Unity 2021.3.2f1
+
+## 死の国のエルヴィア
 - テーマ
   - discord botによって動作するテキストRPG
 - コンセプト
@@ -22,6 +25,16 @@ private repositoryで製作中
 **目的**
 - 普段会話手段として使っているdiscordをゲームに変える
 - 離れたところにいる相手にも手軽に遊んでもらえるゲームを作る
+
+### 開発環境など
+Python3
+
+## processingで作ったミニゲーム
+
+### Shooting
+
+### Typing
+
 
 <!--
 **iChi412/iChi412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
