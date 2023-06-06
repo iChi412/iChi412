@@ -21,12 +21,15 @@ private repositoryで製作中
  -->
 
 頭割りを1人受けしている様子
+
 <img src="image/頭割り一人受け.jpg" width="400px">
 
 頭割りを2人受けしている様子
+
 <img src="image/頭割り二人受け.jpg" width="400px">
 
 healerがtankに弾を撃って回復している様子
+
 <img src="image/healerShot.png" width="400px">
 
 ### 開発環境など
