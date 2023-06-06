@@ -19,7 +19,7 @@ private repositoryで製作中
 ![healerShot](image/healerShot.png)
  -->
 
-<img src="image/頭割り一人受け.jpg" height="128px"> <img src="image/頭割り二人受け.jpg" width="40%">
+<img src="image/頭割り一人受け.jpg" height="160px"> <img src="image/頭割り二人受け.jpg" height="160px">
 <img src="image/healerShot.png" width="40%">
 
 ### 開発環境など
