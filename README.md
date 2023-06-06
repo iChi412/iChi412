@@ -19,8 +19,8 @@ private repositoryで製作中
 ![healerShot](image/healerShot.png)
  -->
 
-<img src="image/頭割り一人受け.jpg" width="50%"> <img src="image/頭割り二人受け.jpg" width="50%">
-<img src="image/healerShot.png" width="50%">
+<img src="image/頭割り一人受け.jpg" width="40%"> <img src="image/頭割り二人受け.jpg" width="40%">
+<img src="image/healerShot.png" width="40%">
 
 ### 開発環境など
 Unity 2021.3.2f1
