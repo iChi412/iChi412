@@ -12,6 +12,10 @@ private repositoryで製作中
 - 疎遠になった友達と一緒に遊ぶ（そのためのオンライン）
 - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
 
+### 現状でのプレイ画面
+<!-- ![stack1](image/) -->
+![healerShot](image/healerShot.png)
+
 ### 開発環境など
 Unity 2021.3.2f1
 
