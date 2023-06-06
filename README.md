@@ -13,7 +13,8 @@ private repositoryで製作中
 - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
 
 ### 現状でのプレイ画面
-<!-- ![stack1](image/) -->
+![stack1](image/頭割り一人受け.jpg)
+![stack2](image/頭割り二人受け.jpg)
 ![healerShot](image/healerShot.png)
 
 ### 開発環境など
