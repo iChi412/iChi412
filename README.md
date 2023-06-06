@@ -13,9 +13,14 @@ private repositoryで製作中
 - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
 
 ### 現状でのプレイ画面
-![stack1](image/頭割り一人受け.jpg?width=5cm)
+<!-- 
+![stack1](image/頭割り一人受け.jpg)
 ![stack2](image/頭割り二人受け.jpg)
 ![healerShot](image/healerShot.png)
+ -->
+
+<img src="image/頭割り一人受け.jpg" width="50%"> <img src="image/頭割り二人受け.jpg" width="50%">
+<img src="image/healerShot.png" width="50%">
 
 ### 開発環境など
 Unity 2021.3.2f1
