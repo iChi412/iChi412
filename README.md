@@ -13,7 +13,7 @@ private repositoryで製作中
 - 自分で作ったゲームなら食いついてくれるはず，と思って自作する
 
 ### 現状でのプレイ画面
-![stack1](image/頭割り一人受け.jpg)
+![stack1](image/頭割り一人受け.jpg?width=5cm)
 ![stack2](image/頭割り二人受け.jpg)
 ![healerShot](image/healerShot.png)
 
