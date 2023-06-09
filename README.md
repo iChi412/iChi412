@@ -55,7 +55,7 @@ Python3
 <img src="image/shooting_5_form1.jpg" width="250px"> <img src="image/shooting_5_form2.jpg" width="250px"> <img src="image/shooting_5_form3.jpg" width="250px">
 
 ### Typing
-<img src="image/typing_start.png" width="250px"> <img src="image/typing_sh.png" width="250px"> <img src="image/typing_clear.png" width="250px">
+<img src="image/typing_start.png" height="300px"> <img src="image/typing_sh.png" height="300px"> <img src="image/typing_clear.png" height="300px">
 
 <!--
 **iChi412/iChi412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
