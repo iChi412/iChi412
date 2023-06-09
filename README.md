@@ -22,15 +22,15 @@ private repositoryで製作中
 
 頭割りを1人受けしている様子
 
-<img src="image/頭割り一人受け.jpg" width="400px">
+<img src="image/頭割り一人受け.jpg" width="450px">
 
 頭割りを2人受けしている様子
 
-<img src="image/頭割り二人受け.jpg" width="400px">
+<img src="image/頭割り二人受け.jpg" width="450px">
 
 healerがtankに弾を撃って回復している様子
 
-<img src="image/healerShot.png" width="400px">
+<img src="image/healerShot.png" width="450px">
 
 ### 開発環境など
 Unity 2021.3.2f1
